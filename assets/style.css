@@ -1,0 +1,103 @@
+
+main  {
+margin-left: 25em;
+}
+
+header {
+    background-image: url(../assets/img/pattern.png);
+    height: 180px;
+    background-color: rgb(66, 133, 196);
+    position: relative;
+}
+
+.immagine {
+    width: 250px;
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+}
+
+
+
+.head {
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+    color: aliceblue;
+    font-family:'Merriweather', serif;
+    font-size: 20px;
+}
+
+.tabella1 {
+    background-color: rgb(23, 154, 241);
+    width: 1200px;
+    color: white;
+}
+
+.tabella2 {
+    background-color: rgba(146, 229, 235, 0.89);
+    height: 3em;
+    width: 1200px;
+}
+.tabella3{
+    width: 1200px;
+    height: 3em;
+}
+span {
+    margin-left: 80px;
+ padding-top: 9em;
+}
+
+.background1 {
+    background-image: url(../assets/img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    color: white;
+    margin: 0px;
+}
+
+.background2 {
+    background-image: url(../assets/img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    color: white;
+    margin:0px
+}
+
+.descrizione {
+    margin: 0px;
+    font-size: small;
+}
+h2 {
+    margin-bottom: 0px;
+}
+.content {
+  margin-top: 0px;
+  font-size: small;
+}
+
+.evidenziatore {
+    background-color: yellow;
+    height: 0px;
+    padding-top: 0px;
+    margin:0px;
+}
+
+.contenitore {
+    margin-left: 0px;
+    color: rgb(69, 119, 194);
+}
+
+.lorem {
+    padding: 0.5em;
+    margin: 0px;
+    margin-top: 7px;
+}
+
+h3 {
+    margin:0px;
+    margin-bottom: 0px;
+    color: gray;
+}
